@@ -5,8 +5,8 @@ const CallToAction = () => {
     <div className="relative py-20 bg-gradient-to-r from-amber-500 via-red-500 to-red-500 text-white">
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="relative max-w-7xl mx-auto px-6 md:px-12 xl:px-6 text-center">
-        <h2 className="text-3xl font-bold md:text-4xl">Transform Your Resume. Faster.</h2>
-        <p className="mt-4 text-lg md:text-xl">Join thousands of professionals using CV Switch to enhance their resumes. It's quick, easy, and effective!</p>
+        <h2 className="text-3xl font-bold md:text-4xl">Craft a Winning Resume.</h2>
+        <p className="mt-4 text-lg md:text-xl">Effortlessly create a resume tailored to your dream job with AI-driven precision. Perfect for job seekers, professionals, and students.</p>
         <div className="mt-8 flex flex-wrap justify-center gap-y-4 gap-x-6">
           <a
             href="https://beta.cvswitch.com"

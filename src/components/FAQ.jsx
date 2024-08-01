@@ -37,23 +37,23 @@ const FAQs = () => {
   const faqData = [
     {
       question: 'What is CV Switch?',
-      answer: 'CV Switch is an AI-powered tool that helps you transform your resume to fit specific job roles by uploading your resume and writing a prompt.',
+      answer: 'An AI-powered tool to enhance your resume for specific job roles.',
     },
     {
-      question: 'How does CV Switch work?',
-      answer: 'Using CV Switch is simple! Upload your resume, write a prompt describing the desired job role, and let our AI enhance your resume accordingly.',
+      question: 'How does it work?',
+      answer: 'Upload your resume, describe your desired role, and let AI do the rest.',
     },
     {
-      question: 'Can I use CV Switch for different job roles?',
-      answer: 'Yes, you can use CV Switch to tailor your resume for various job roles, ensuring it highlights the skills and experiences relevant to each position.',
+      question: 'Is it ATS-friendly?',
+      answer: 'Yes, designed to pass all major ATS checks.',
     },
     {
-      question: 'Is CV Switch suitable for all industries?',
+      question: 'Is it suitable for all industries?',
       answer: 'Absolutely! CV Switch is designed to work across all industries, helping professionals, job seekers, and students create industry-specific resumes.',
     },
     {
       question: 'Is there a limit to the number of resumes I can transform?',
-      answer: 'There are no limits to the number of resumes you can transform with CV Switch. Customize as many resumes as you need for different job applications.',
+      answer: 'No limits on the number of resumes you can create.',
     },
   ];
 

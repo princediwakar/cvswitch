@@ -31,10 +31,10 @@ const Features = () => {
                 <h5
                   className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary"
                 >
-                  Effortless Upload
+                  AI-Driven Personalization
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                Easily upload your resume to start the enhancement process.
+                Our AI tailors your resume to fit the job role perfectly.
                 </p>
               </div>
               <a href="https://beta.cvswitch.com" target="_blank" rel="noreferrer" className="flex items-center justify-between group-hover:text-secondary">
@@ -59,10 +59,10 @@ const Features = () => {
                 <h5
                   className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary"
                 >
-                  Tailored to Your Role
+                  ATS Compatibility
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                Customize your resume for specific job roles with ease.
+                Ensure your resume passes Applicant Tracking Systems.
                 </p>
               </div>
               <a href="https://beta.cvswitch.com" target="_blank" rel="noreferrer" className="flex items-center justify-between group-hover:text-secondary">
@@ -87,10 +87,10 @@ const Features = () => {
                 <h5
                   className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary"
                 >
-                  Instant Results
+                  Professional Templates
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                Get your enhanced resume in seconds, saving you time.
+                Choose from a variety of industry-approved templates.
                 </p>
               </div>
               <a href="https://beta.cvswitch.com" target="_blank" rel="noreferrer" className="flex items-center justify-between group-hover:text-secondary">
@@ -119,10 +119,10 @@ const Features = () => {
                 <h5
                   className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary"
                 >
-                  Connect
+                  Instant Feedback
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                Connect with professionals and get feedback on your resume.
+                Receive instant feedback to improve your resume.
                 </p>
               </div>
               <a href="https://beta.cvswitch.com" target="_blank" rel="noreferrer" className="flex items-center justify-between group-hover:text-secondary">

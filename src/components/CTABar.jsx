@@ -5,7 +5,7 @@ const CallToActionBar = () => {
     <div className="bg-gradient-to-r from-amber-500 via-red-500 to-red-500 text-white py-4">
       <div className="max-w-7xl mx-auto px-6 md:px-12 xl:px-6 text-center">
         <p className="text-lg font-semibold">
-          Transform Your Resume with CV Switch
+          Create a Better Resume with CV Switch
         </p>
         <a
           href="https://beta.cvswitch.com"
