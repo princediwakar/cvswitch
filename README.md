@@ -46,6 +46,7 @@ CV Switch is an AI-powered tool designed to help users transform their resumes t
 To create a production build, use the following command:
 ```sh
 npm run build
+```
 
 This will create a build directory with all the necessary files to deploy your application.
 
