@@ -24,7 +24,7 @@ const Blog = () => {
                 Learn how to create eye-catching social media graphics that captivate your audience and boost engagement.
               </p>
               <a className="inline-block" href="#">
-                <span className="text-info dark:text-red-300">Read more</span>
+                <span className="text-info dark:text-red-500">Read more</span>
               </a>
             </div>
           </div>
@@ -41,7 +41,7 @@ const Blog = () => {
                 Explore the impact of AI on graphic design and how tools like snapmydesign are leading the change.
               </p>
               <a className="inline-block" href="#">
-                <span className="text-info dark:text-red-300">Read more</span>
+                <span className="text-info dark:text-red-500">Read more</span>
               </a>
             </div>
           </div>
@@ -58,7 +58,7 @@ const Blog = () => {
                 Discover how AI can help you build and maintain a strong, consistent brand identity.
               </p>
               <a className="inline-block" href="#">
-                <span className="text-info dark:text-red-300">Read more</span>
+                <span className="text-info dark:text-red-500">Read more</span>
               </a>
             </div>
           </div>
