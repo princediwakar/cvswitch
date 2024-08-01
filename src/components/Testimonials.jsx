@@ -2,7 +2,7 @@ import React from 'react';
 
 const Testimonials = () => {
   return (
-    <div className="text-gray-600 py-20 bg-gradient-to-br from-green-50 via-blue-50 to-indigo-50 dark:from-gray-800 dark:via-gray-900 dark:to-black dark:text-gray-300" id="testimonials">
+    <div className="text-gray-600 py-20 bg-gradient-to-br from-amber-50 via-red-50 to-red-50 dark:from-gray-800 dark:via-gray-900 dark:to-black dark:text-gray-300" id="testimonials">
       <div className="max-w-7xl mx-auto px-6 md:px-12 xl:px-6">
         <div className="mb-20 space-y-4 px-6 md:px-0">
           <h2 className="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
@@ -13,7 +13,7 @@ const Testimonials = () => {
           <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="flex gap-4">
               <div>
-                <h6 className="text-lg font-medium text-green-500 dark:text-green-400">Shashank Dixit</h6>
+                <h6 className="text-lg font-medium text-amber-500 dark:text-amber-400">Shashank Dixit</h6>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Software Engineer</p>
               </div>
             </div>
@@ -22,7 +22,7 @@ const Testimonials = () => {
           <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="flex gap-4">
               <div>
-                <h6 className="text-lg font-medium text-green-500 dark:text-green-400">Jane Smith</h6>
+                <h6 className="text-lg font-medium text-amber-500 dark:text-amber-400">Jane Smith</h6>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Product Manager</p>
               </div>
             </div>
@@ -31,7 +31,7 @@ const Testimonials = () => {
           <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="flex gap-4">
               <div>
-                <h6 className="text-lg font-medium text-green-500 dark:text-green-400">Emily Johnson</h6>
+                <h6 className="text-lg font-medium text-amber-500 dark:text-amber-400">Emily Johnson</h6>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Marketing Specialist</p>
               </div>
             </div>
@@ -40,7 +40,7 @@ const Testimonials = () => {
           <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="flex gap-4">
               <div>
-                <h6 className="text-lg font-medium text-green-500 dark:text-green-400">Michael Brown</h6>
+                <h6 className="text-lg font-medium text-amber-500 dark:text-amber-400">Michael Brown</h6>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Operations Manager</p>
               </div>
             </div>
@@ -49,7 +49,7 @@ const Testimonials = () => {
           <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="flex gap-4">
               <div>
-                <h6 className="text-lg font-medium text-green-500 dark:text-green-400">Sarah Lee</h6>
+                <h6 className="text-lg font-medium text-amber-500 dark:text-amber-400">Sarah Lee</h6>
                 <p className="text-sm text-gray-500 dark:text-gray-400">UI/UX Designer</p>
               </div>
             </div>
@@ -58,7 +58,7 @@ const Testimonials = () => {
           <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="flex gap-4">
               <div>
-                <h6 className="text-lg font-medium text-green-500 dark:text-green-400">David Wilson</h6>
+                <h6 className="text-lg font-medium text-amber-500 dark:text-amber-400">David Wilson</h6>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Freelancer</p>
               </div>
             </div>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const CallToActionBar = () => {
   return (
-    <div className="bg-gradient-to-r from-green-500 via-blue-500 to-indigo-500 text-white py-4">
+    <div className="bg-gradient-to-r from-amber-500 via-red-500 to-red-500 text-white py-4">
       <div className="max-w-7xl mx-auto px-6 md:px-12 xl:px-6 text-center">
         <p className="text-lg font-semibold">
           Transform Your Resume with CV Switch

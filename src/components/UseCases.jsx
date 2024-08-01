@@ -56,7 +56,7 @@ const UseCases = () => {
         </div>
         <div className="relative flex flex-wrap justify-center gap-8">
           {useCases.map((useCase, index) => (
-            <div key={index} className="w-60 p-6 bg-gradient-to-br from-green-100 via-blue-100 to-indigo-100 dark:from-green-800 dark:via-blue-700 dark:to-indigo-800 border border-gray-100 dark:border-gray-700 rounded-3xl shadow-lg text-center transform transition duration-500 hover:scale-105">
+            <div key={index} className="w-60 p-6 bg-gradient-to-br from-amber-100 via-red-100 to-red-100 dark:from-amber-800 dark:via-red-700 dark:to-red-800 border border-gray-100 dark:border-gray-700 rounded-3xl shadow-lg text-center transform transition duration-500 hover:scale-105">
               <div className="text-4xl">{useCase.icon}</div>
               <h3 className="mt-4 text-xl font-semibold text-gray-800 dark:text-white">{useCase.title}</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">{useCase.description}</p>

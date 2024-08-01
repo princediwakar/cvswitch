@@ -8,7 +8,7 @@ const HowItWorks = () => {
           <h2 className="text-3xl font-bold text-gray-800 dark:text-white md:text-4xl">How CV Switch Works</h2>
         </div>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-          <div className="group p-6 sm:p-8 rounded-3xl bg-gradient-to-br from-green-200 via-blue-200 to-indigo-200 dark:from-green-900 dark:via-blue-800 dark:to-indigo-900 shadow-2xl shadow-gray-600/10 dark:shadow-none">
+          <div className="group p-6 sm:p-8 rounded-3xl bg-gradient-to-br from-amber-200 via-red-200 to-red-200 dark:from-amber-900 dark:via-red-800 dark:to-red-900 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="relative overflow-hidden rounded-xl">
               <img src="https://example.com/upload-resume.png" alt="Upload Resume" loading="lazy" className="h-64 w-full object-cover object-top transition duration-500 group-hover:scale-105" />
             </div>
@@ -19,7 +19,7 @@ const HowItWorks = () => {
               </p>
             </div>
           </div>
-          <div className="group p-6 sm:p-8 rounded-3xl bg-gradient-to-br from-green-200 via-blue-200 to-indigo-200 dark:from-green-900 dark:via-blue-800 dark:to-indigo-900 shadow-2xl shadow-gray-600/10 dark:shadow-none">
+          <div className="group p-6 sm:p-8 rounded-3xl bg-gradient-to-br from-amber-200 via-red-200 to-red-200 dark:from-amber-900 dark:via-red-800 dark:to-red-900 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="relative overflow-hidden rounded-xl h-64 flex items-center justify-center bg-gray-100 dark:bg-gray-700">
               <p className="text-xl font-semibold text-gray-800 dark:text-white">Write Prompt</p>
             </div>
@@ -30,7 +30,7 @@ const HowItWorks = () => {
               </p>
             </div>
           </div>
-          <div className="group p-6 sm:p-8 rounded-3xl bg-gradient-to-br from-green-200 via-blue-200 to-indigo-200 dark:from-green-900 dark:via-blue-800 dark:to-indigo-900 shadow-2xl shadow-gray-600/10 dark:shadow-none">
+          <div className="group p-6 sm:p-8 rounded-3xl bg-gradient-to-br from-amber-200 via-red-200 to-red-200 dark:from-amber-900 dark:via-red-800 dark:to-red-900 shadow-2xl shadow-gray-600/10 dark:shadow-none">
             <div className="relative overflow-hidden rounded-xl">
               <img src="https://example.com/transform-resume.png" alt="Transform Resume" loading="lazy" className="h-64 w-full object-cover object-top transition duration-500 group-hover:scale-105" />
             </div>
